@@ -1,0 +1,27 @@
+{
+  "name": "cnpj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/marcelobcortes/cnpj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/marcelobcortes/cnpj/issues"
+  },
+  "homepage": "https://gitlab.com/marcelobcortes/cnpj#README",
+  "dependencies": {
+    "aws-sdk": "^2.291.0",
+    "cheerio": "^1.0.0-rc.2",
+    "mysql": "^2.16.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "util": "^0.11.0"
+  }
+}
